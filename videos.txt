@@ -1,5 +1,2 @@
-[
-    {"name": "Video 1", "movieURL": "https://archive.org/download/mr-peabody-and-sherman_202208/MR_PEABODY_AND_SHERMAN.mp4", "coverImageURL": "https://lumiere-a.akamaihd.net/v1/images/mrpeabodysherman_584x800_e71ebb51.jpeg"},
-    {"name": "Video 2", "movieURL": "https://example.com/video2.mp4", "coverImageURL": "https://example.com/cover2.jpg"}
-    // Add more videos as needed
-]
+
+Video 1,https://archive.org/download/mr-peabody-and-sherman_202208/MR_PEABODY_AND_SHERMAN.mp4,https://lumiere-a.akamaihd.net/v1/images/mrpeabodysherman_584x800_e71ebb51.jpeg
