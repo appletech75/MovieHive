@@ -1,2 +1,2 @@
-Sample Video 1,https://www.example.com/sample_video_1.mp4,https://lumiere-a.akamaihd.net/v1/images/mrpeabodysherman_584x800_e71ebb51.jpeg
+Sample,https://archive.org/download/mr-peabody-and-sherman_202208/MR_PEABODY_AND_SHERMAN.mp4,https://lumiere-a.akamaihd.net/v1/images/mrpeabodysherman_584x800_e71ebb51.jpeg
 Sample Video 2,https://www.example.com/sample_video_2.mp4,https://www.example.com/sample_video_2_cover.jpg
