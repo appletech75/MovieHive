@@ -1,2 +1,18 @@
-Sample,https://archive.org/download/mr-peabody-and-sherman_202208/MR_PEABODY_AND_SHERMAN.mp4,https://lumiere-a.akamaihd.net/v1/images/mrpeabodysherman_584x800_e71ebb51.jpeg
-Sample Video 2,https://www.example.com/sample_video_2.mp4,https://www.example.com/sample_video_2_cover.jpg
+[
+    {
+        "name": "Video 1",
+        "url": "https://archive.org/download/mr-peabody-and-sherman_202208/MR_PEABODY_AND_SHERMAN.mp4",
+        "coverImageURL": "https://lumiere-a.akamaihd.net/v1/images/mrpeabodysherman_584x800_e71ebb51.jpeg"
+    },
+    {
+        "name": "Video 2",
+        "url": "https://example.com/video2.mp4",
+        "coverImageURL": "https://example.com/cover2.jpg"
+    },
+    {
+        "name": "Video 3",
+        "url": "https://example.com/video3.mp4",
+        "coverImageURL": "https://example.com/cover3.jpg"
+    }
+    // Add more videos as needed
+]
